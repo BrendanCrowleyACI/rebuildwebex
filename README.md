@@ -1,5 +1,5 @@
 # rebuildwebex
-Webex Rebuild Tool
+Webex Rebuild Tool v0.2
 
 The Webex Rebuild Tool rebuilds a streamed webex recording as a .arf file that can be then played offline for later viewing, it's based upon https://github.com/skuater/rebuildwebex (written in Spanish). My solution leverages this tool but has been improved, translated to English plus a few bugs fixed :smirk:
 
